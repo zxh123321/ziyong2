@@ -1,0 +1,23 @@
+{
+  "version": "1.9.9",
+  "target": "FL8.0.6",
+  "provided_update": "v8.0.6 20261018",
+  "delivery_files": 666,
+  "lua_files": 534,
+  "syntax_errors": 0,
+  "adapter_checks": 624,
+  "release_checks": 545,
+  "prior_regression_checks": 591,
+  "script_smoke_cases": 46,
+  "script_smoke_failures": 0,
+  "native_tactical_mage_cases": 2,
+  "tower_cards": 23,
+  "adapted_plugins": 25,
+  "central_resource_files": 55,
+  "image_files_checked": 92,
+  "ogg_files_checked": 11,
+  "atlas_frames_checked": 74,
+  "windows_game_tested": false,
+  "graphics_audio_boundaries_stubbed": true,
+  "old_mage_plugin_disabled": true
+}

@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "target": "FL8.0.6",
+  "cumulative_from": "1.9.9",
+  "files": 667,
+  "lua_files": 535,
+  "modified_files": [
+    "lib/klove/image_db.lua",
+    "plugins/Barbarian_Overhaul/scripts/mod_image_loader.lua",
+    "fl_patch/image_assets.lua"
+  ],
+  "new_image_loader_checks": 37,
+  "adapter_checks": 624,
+  "release_checks": 545,
+  "lifecycle_checks": 30,
+  "windows_game_tested": false,
+  "graphics_and_filesystem_boundaries_stubbed": true,
+  "original_barbarian_bitmap_provided": false
+}
